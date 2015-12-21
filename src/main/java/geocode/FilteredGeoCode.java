@@ -1,6 +1,7 @@
-package geocode.kdtree;
+package geocode;
 
 import geocode.GeoName;
+import geocode.kdtree.KDTree;
 
 import java.io.BufferedReader;
 import java.io.IOException;
